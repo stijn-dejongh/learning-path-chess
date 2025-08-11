@@ -80,7 +80,7 @@ Keeping materials modular lets me update one part without cluttering the rest, a
     - Write it at the top of `dashboard.md`.
 
 2. **Study Model Games**
-    - Open the relevant `.pgn` file in `/openings/`.
+    - Open the relevant `.pgn` file in [`/openings/`](./openings/).
     - Play through 2–3 annotated games that show the motif in your openings.
 
 3. **Play Focused Games**
@@ -89,7 +89,7 @@ Keeping materials modular lets me update one part without cluttering the rest, a
     - If facing an unusual position, default to the principles in `decision_guide.md`.
 
 4. **Log Games**
-    - Use the template in `dashboard.md` or `/game_logs/` for each game.
+    - Use the template in [`dashboard.md`](./dashboard.md) or [`/game_logs/`](./game_logs/) for each game.
     - Record whether you applied the motif, and one reason if you missed it.
 
 5. **Review at Week’s End**
