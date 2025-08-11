@@ -56,10 +56,10 @@ Having a repeatable thought process reduces blunders, ensures king safety, and m
 
 ### 4. Repository Structure
 The repo will contain:
-- `[dashboard.md](dashboard.md)` — current focus, motif of the week, practice loops, and review templates.
-- `[/openings/](./openings/)` — visual/markdown “battle cards” and PGN repertoires for each opening.
-- `[/game_logs/](./game_logs/)` — annotated games and motif reviews.
-- `[/learnings/](./learnings/)` — modular learning materials (principles, decision guides, etc.).
+- [`dashboard.md`](dashboard.md) — current focus, motif of the week, practice loops, and review templates.
+- [`/openings/`](./openings/) — visual/markdown “battle cards” and PGN repertoires for each opening.
+- [`/game_logs/`](./game_logs/) — annotated games and motif reviews.
+- [`/learnings/`](./learnings/) — modular learning materials (principles, decision guides, etc.).
 
 **Rationale:**  
 Keeping materials modular lets me update one part without cluttering the rest, and makes it easy to compare learning progress over time.

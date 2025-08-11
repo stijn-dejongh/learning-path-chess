@@ -2,6 +2,13 @@
 
 ## Detailed Openings
 
+### White
+* [Italian Game](italian_game.md)
+
+### Black
+* [Caro–Kann Defence](caro_kann.md)
+* [Slav Defence](slav_defense.md)
+
 ## 🗺 Opening Map
 
 *(Mainlines only; see PGNs and detail pages for details)*
