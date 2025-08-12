@@ -64,6 +64,18 @@ see [chess.com Caro-Kann Advance Variation](https://www.chess.com/openings/Caro-
 - **Neglecting f6:** In locked-center structures, failure to prepare …f6 can leave you cramped all game.
 - **Overextending after Advantage:** When ahead, avoid risky pawn grabs — keep structure solid.
 
+## Study File
+
+Engine/Analysis board study file, with some variations investigated. To be used for further expansion and/or practice games versus AI.
+
+```pgn
+[Site "Chess.com"]
+[Result "*"]
+1. e4 c6 2. d4 d5 3. e5 c5 4. Bb5+     (4. Nf3 Bg4 5. Bb5+ Nc6) (4. c3 cxd4
+(4... g6 5. dxc5 Nc6) (4... Nc6 5. Nf3 Bg4) 5. cxd4) (4. dxc5 Nc6 5. Bb5 e6)
+4... Bd7     (4... Nd7)  *
+```
+
 ## Example Trap — Bishop Entombment
 ```pgn
 1. e4 c6 
